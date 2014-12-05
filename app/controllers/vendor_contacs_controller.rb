@@ -1,0 +1,2 @@
+class VendorContacsController < ApplicationController
+end
